@@ -1,7 +1,3 @@
-<a href="https://vk.com" target="_blank">
-  <img src="https://shields.io" alt="VK @txianger" />
-</a>
-
 <img width="625" height="433" alt="Screenshot 2026-07-19 114007" src="https://github.com/user-attachments/assets/c14b29e6-049d-47b1-8258-ffd4e85185d5" />
 
 <img width="394" height="547" alt="Screenshot 2026-07-19 114019" src="https://github.com/user-attachments/assets/b7e4530d-cc66-427e-b415-127bddd292ce" />
@@ -17,6 +13,12 @@
 
 если хотите потестить как выглядит история в /bh, разархивируйте архив чтоб было так moonloader/balancetracker/data.json итд
 потом же в находясь в игре, можно это все хлопнуть /bresetall
+
+<a href="https://vk.ru/txianger" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/VK-txianger-blue?logo=VK" 
+         alt="Моя страница ВКонтакте" 
+         style="vertical-align: middle; border: 0;">
+</a>
 
 hotfix 3.4.1
 /bt -> /btr

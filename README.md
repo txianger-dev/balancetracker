@@ -1,4 +1,4 @@
-[![VK](https://shields.io)](https://vk.com)
+[![VK](https://shields.io)](https://vk.com/txianger)
 <img width="625" height="433" alt="Screenshot 2026-07-19 114007" src="https://github.com/user-attachments/assets/c14b29e6-049d-47b1-8258-ffd4e85185d5" />
 
 <img width="394" height="547" alt="Screenshot 2026-07-19 114019" src="https://github.com/user-attachments/assets/b7e4530d-cc66-427e-b415-127bddd292ce" />

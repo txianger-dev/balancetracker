@@ -14,8 +14,8 @@
 если хотите потестить как выглядит история в /bh, разархивируйте архив чтоб было так moonloader/balancetracker/data.json итд
 потом же в находясь в игре, можно это все хлопнуть /bresetall
 
-<a href="https://vk.ru/txianger" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/VK-txianger-blue?logo=VK" 
+<a href="https://vk.ru/vp_scripts" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/VK-VP_Scripts-blue?logo=VK" 
          alt="Моя страница ВКонтакте" 
          style="vertical-align: middle; border: 0;">
 </a>
